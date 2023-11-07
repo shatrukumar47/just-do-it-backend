@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learn JavaScript",
+      "decription": "Tomorrow you have a class on javacript which should be completed.",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Learn Angular",
+      "decription": "Learn angular on your own using ChatGPT and the documentations.",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Learn about OpenAI",
+      "decription": "I have to use OpenAI key and use playground to experiment on that.",
+      "completed": false
+    }
+  ]
+}

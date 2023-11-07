@@ -1,0 +1,16 @@
+{
+  "name": "advance-angular-form-validation-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4",
+    "nodemon": "^3.0.1"
+  }
+}
